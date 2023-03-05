@@ -1,0 +1,265 @@
+20/02/2023 
+	=> Admin Panel
+		1. adminiwebs panel linked to admin panel for login & logout  : 11:30 to 12:10	
+		2. *DOCUMENT - CRUD(create, read, update, delete) Operation  : 12:10 TO 13:05
+	=> Website
+		1. *DOCUMENT display in https://rapidexworldwide.in/download-document.php  : 12:10 TO 13:05
+		2. client review connected to delhi page from admin panel : 13:05 to 13:38 
+		3. ratelist work 13:38 to 2:30
+		4. FAQs Updated (by laxman sir) 16:00 to 16:25
+		5. Working For new Page dexpress-courier/delhi-to- usa-charges.php  13:38 to 2:30 & 16:25 to 5:30
+			i. Ratelist data justify & now i can insert into my table(database)
+			ii. change url bar to dexpress-courier/delhi-to-usa-charges.php & heading to Courier Charges from Delhi to USA by DExpress
+	=> BY geetanjali mem
+		=> changed contents in colombia.php page :5:30 to 5:45pm
+
+18/02/2023 Time spend : 20 mints
+	=> location & delhi pages contents bold & remove some words as per rapidex sir
+
+17/02/2023 : 12:15 to 4:15 & 5:30 to 6
+Admin Panel - 
+	=> client review - CRUD operation done, rest of work connected to frontend, 12:15 to 1:20
+- with Rapidex Sir from 1:20pm
+	=> dynamic url & page table design created- https://rapidexworldwide.in/dhl-courier-charges/delhi-to-usa
+	=> Contents updated in country Page 
+	=>  Discuss about courer charges of every network & for country as https://rapidexworldwide.in/dhl-courier-charges/delhi-to-usa 
+	=> 5:30 to 6, some changes in content in delhi & country page
+16/02/2023 : Whole Day
+Admin Panel :
+	1. client review of crud operation - 40% work
+	2. Manage CSC - Local Area CRUD Operation & connected to frontend for country page tagging
+Website :
+	1. website all enquiry form - top country & normal country seprated
+	2. location & country page : created dynamic tagging for state/city/coutnry
+	3. bottom line slightly design fix
+	4. Location & Country Page : content replaced as per rapidex sir
+
+15/02/2023 :  Time  - 10am to 1:45pm
+	1.  csc_annexure work of admin panel and connected to frontend 
+	2.  on Call at 11:45 with rapidex for understanding of function of csc_anexure in admin panel to rapidex
+	3.  And implement rest of two function in admin panel for as per csc_annexure	
+	4.  CSC ALL Features : 
+		-> https://rapidexworldwide.in/international-courier-service-(country/state/city)  - DONE
+		-> https://rapidexworldwide.in/international-courier-service-(country/state/city)/(country/state) - DONE
+		
+
+13/02/2023 : Time : All Day
+	=> created destination tab as per csc_annexure.txt in pickup location of column destination
+	=> Seprate Manage CSC & destination table in database & admin panel
+
+12/02/2023 : Time : All Days
+	=> created destination tab as per csc_annexure.txt in pickup location of column destination
+	=> Seprate Manage CSC & destination table in database & admin panel
+
+11/02/2023 : Time - 4:30 hours
+	=> 1:30 hour calls at anydesk
+	=> Manage CSC - remodify
+	=> for created notes file_name csc_annexure.txt for pickup_location & to destination
+	=> apply changed in pickup_location as per notes - csc_annexure.txt
+
+10/02/2023 - work at another project like payment interigation of scholaracard & rinki mem's design part
+
+09/02/2023  Time : 3 hour 
+	=> bottom line of pickup location design & one-two content update
+	=> 2 hour at anydesk live with rapdiex sir
+	
+
+08/02/2023 Time : 3:30 hours
+	=> change contents of Country Page & Area Page  at anydesk live with rapdiex sir
+
+07/02/2023 : whole day
+=> Admin
+	i. pickup_location - From : city, edit, add, delete & re update state edit and add
+	ii. dynamic country page & area page 
+	iii. we have pickup location : updated in all website 
+
+06/02/2023 Time Spend : 7 hours
+=> Admin 
+	i. destintion
+		=> edit state & delete state
+		=> add city & edit city & delete city
+		=> Filter : rows, search
+	ii. pickup_location - From - state edit, delete, add
+	ii. whole website to localhost setup(offline)
+
+
+
+
+04/02/2023  : Time spend : 3 hours
+=> Admin
+	i. destintion
+		=> add country & edit country & delete country
+		=> add state operation
+		=> Filter Data of country and state 
+
+
+
+03/02/2023 Time Spend : 2 hour
+=> Admin
+	i. destination - flag added & url generated & top country Filtered & some can not filtered
+
+02/02/2023 - Time Spend : 5 hour
+=> Admin	
+	i. pickup location  From : modify code 
+	ii. destination : create page country, state, city - data display from database & modify database & linked with country, state, city 
+=> country page & area page 
+	i. country page add link in bottom in Courier from Delhi to USA &  Courier from Delhi to Germany etc.
+	ii. Tracking.php - fixed design of track box between text
+	iii. country & area - not working TRACK BOX - FIXED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17/01/2023 to 30/01/2022
+=> we have pickup location all over india dynamic not showing in all pages like services page 
+=> Moved Website 
+	-> rapidexworlde.in domain
+	-> database connectivity issued fixed 
+	-> 2nd developer database connectivity issued fixed
+	-> rapidex website checkout for make changes at one place  Like : 
+			i. website url 
+			ii. website path
+			iii. database
+	-> country page & area page trakcing not working fixed
+=> before load website spinner not working - its impact in seo as bad quality FIXED
+=> working on dynamic routes 
+=> dynamic country page 
+=> dynamic area page
+
+=> if admin fill up the rate calculator then mail not sent 
+=> seo keyworeds & title changed
+=> some page name changed!
+
+
+
+20/12/2022 TO 16/01/2023
+=> Website Clean
+	i. dynamic js created
+	ii. removed js & css file which is not used
+
+=> service page | DONE
+	i. content, links change deliver services to courier services in four pages
+	ii. sidebar & 12 box can be change in one place 
+=> Enquiry Form | DONE
+	i. enquiry form on type pickup pincode then load country, implemented in every where of website
+	ii. tracking.php / rate-calculator / home /  contact us.php design fix  of enquiry form,track & our services
+	iii. Top Country List in Enquiry Form everywhere of website 
+	iv. package type - input design width fix
+	v. Modify Search Enquiry form - Popup design fix 
+	vi. shipping-charges.php (list.php) - box design again changed & mobile view design different changed (this page comes after enquiry form fill up)
+	vii. page name change from list.php to shipping charges & confirm to confirm-pickup.php
+	viii. code fix which is affected by page name change	
+	xi. confirm-pickup.php - design fix with color 
+	x. REMOTE AREA OF DHL & FEDEX IMPLEMENTED to enquiry form 
+	xi. enquiry form data saved without page  reload
+	xii. fedex remote area again updated in excel to sql database
+
+=> ADMIN PANEL 
+	i. update shipment - network name as per services table
+	ii. also implement in tracking.php page network as service table & popup forwrding numbers model
+	iii. 2ND DEVERLOPER ADMIN PANEL - connect country to our database table country list
+
+=> Pay Now - design fix | design break becasue of enquiry form | DONE
+=> Home page Text : our core value- design fix | design break becasue of enquiry form | DONE
+=> HOME PAGE DESIGN FIX |
+=> resources menu bar design fix
+=> COUNTRY PAGE 
+	i. delhi, gurgaon, noida, ghaziabad, faridabad -> active button - which page is visited in all country page & design fix of  text -> Get our offers
+	ii. delhi, gurgaon, noida, ghaziabad, faridabad  ->  one line content change & page title changed
+=> track model popup - add date of delivered | DONE
+=> networks 7 pages title changed | DONE
+
+=> menubar not coming in country page in mobile view | DONE
+=> Google Business Verified & remove duplicate business & suspended business 
+=> enquiry form country load when type pickup pin code | DONE
+=> country list filter in database as per countrylist.excel | DONE
+=> country panel edit in admin panel | DONE
+=> Tracking Status - Model Forwarding Numbers | DONE
+
+17-20/12/2022
+=> DHL REMOTE AREA | 2 DAYS
+=> FEDEX REMOTE AREA | 3 days
+=> Send Enquiry Form Data to mail 
+=> Slightly Box Design of list.php page
+=> Add new from update shipment information network will be as add service list AND public forwarding numbers 
+=> Multiple Forwarding Numbers | 2 days
+=> whatsapp message content changed | DONE
+=> Admin 
+	i. Add Service Tab - Edit Button Added
+	ii. address limit with addressline2 full fil row ... then next three row | DONE
+	iii. Add new from update shipment information network will be as add service list AND public forwarding numbers 
+	iv. (Tab- MAIL ENQUIRY STATUS) -  Enquiry Form Data from other Developer panel 
+
+16/12/2022
+=> volumentry page inches and cm calculation issue https://rapidexworldwide.com/volumetric-weight-calculator.php | DONE
+=> request sent to dhl support team for increase api call | DONE
+=> while add new awb from update shipment history, back date can not select | DONE
+
+08/12/2022
+=> MAKE BILL PDF FILE AND CHANGES 2 DAYS
+=> add serivce edit button in admin panel | DONE 
+=> ENEQUIRY FORM
+	I. enquiry form to send mail | DONE
+	II. Admin Panel - Mail Enquiry Form -| one day DONE 
+	III. Enquiry Form Calculation Errors | DONE in 2 days minimum
+	IV. DHL Remote Area Calculation added in enquiry form 
+	V. secured the amount changes from url bar | DONE
+	VI. created table of DHL remote area data
+
+=> enquiry form - select states then auto option for all cities and consginee states of all country states and cities | first implement then removed
+
+02/12/2022
+=> CURRENCY CONVERTER API ACCORDING TO GOOGLE | DONE spent one day for create new api through web scrapping
+=> address 2 value not getting in bill | done
+
+01/12/2022
+=> design part of bill input size equal | done
+=> Actual Wt.(Kg. calculate slash from  half count to 20 & volumentry test | DONE
+=> fixed time update shipment status | done
+
+30/12/2022
+=> image download of bill || DONE
+=> correct the actual weight in bill| DONE
+=> email id not compulsary in add awb form | DONE
+
+
+29-11-2022 to 30-11-2022
+=> whatsapp message content changed | DONE
+=> PICKUP LOCATION DYNAMIC  | done
+=> TAB- UPDATE SHIPMENT HISTORY : while update status for delivery and out for delivery whatsapp message not working | FIXED
+=> GOOGLE REVIEW API ON WORKING... | cancel by client but time expense
+=> old enquiry form removed and new setup and some page | done
+
+=> ADD_AWB
+    - actual weight 10.8 not accpet in first box no.| DONE
+    - telephone no. enter the placeholder Ex. |DONE
+    - zip/postal code consignee should be after country input box | DONE
+    - clear the invoice if uncheck the invoice create | DONE
+    - invoice content in bill show under description of goods | done
+    - if create invoice,, content will empty | done
+    - remove blank space from add awb date  | DONE
+=> bill
+    -  add invoice value currency | done
+    -  invoice content in bill show under description of goods | done

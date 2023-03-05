@@ -1,0 +1,48 @@
+=> RECEIVE WORK PAYMENT STATUS DROPDOWN
+
+- debit entry - when create invoice and credit entry - when you receive amount - DONE
+=> invoice payment table & duplicate invoce from table merge like stock payment ok & - DONE
+=> assign work & stock items dropdown FIVE PLACE - DONE
+
+=> inventory reports from_date & to_date - DONE
+=> stock items : item name should be dropdown & add new also - DONE
+=> stock items - add item interchange qty & unit price - DONE
+
+
+
+=> invoice, quoitation, measurment, - title row - DONE
+=> status of measurmenet directly change from table view - DONE
+=> array storting
+1. stock
+	i. delete - error delete first from assign/fgoods
+	ii. edit - nothing happend
+2. assign
+=> total fabric used - assigned qty = balance qty
+=> unused fabric equal to assigned qty 
+=> total fabric used = produced qty * fabric used per unit
+
+	i. delete - if items in received work then error - delete first from receive work & increase stock qty 
+	ii. edit - if increase  - minus  in stock & if decrease - plus in stock qty
+3. receive
+	i. delete - if items delete then increase in assign & othwerise error first delete from received work
+	ii. edit - if increase  - minus  in assign & if decrease - plus in assign qty & & minus & plus amount in payment
+4. customer
+	i. delete - if items delete then increase in receive qty
+	ii edit - if increase  - minus  in receive & if decrease - plus in receive qty
+5. payment
+	i. delete - if receive work - producer name not exists then delete
+	ii.
+
+6. Customer FGoods
+	i. delete - if items delete then increase stock qty
+	ii. edit - if increase - minus  in stock & if decrease - plus in stock qty
+
+7. return assign
+	i. return qty - editable  & increase stock qty & decrease 
+	ii. effect in Receive/finished goods
+ 
+---- At the End ----
+6. reports
+
+
+

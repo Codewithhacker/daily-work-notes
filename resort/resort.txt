@@ -1,0 +1,102 @@
+=> SEO IN ESERVICE APARTMENT 
+=> SUBDOMAIN - 
+=>HTTPS 
+
+=> https://www.flaticon.com/free-icon/room-service_119104 for amentities 
+=>27/01/2022
+=> RE-DESIGN WEBSITE THEME & FONT STYLES & refrence  - http://satya-thehive.in
+=> ENQUIRY FORM EVERY WHERE 
+
+Final Changes in Subdomain Website:-
+
+*1.    Create https in all subdomains using Godaddy wild-card features. All pages should have https for visitor confidence as a secure website.
+
+Change secure login theme as eService Apartments.
+
+*2.    Home Page (frontend) – Logo needs to have bigger rectangular / square space. Backend don’t support the PNG logo. The theme of a particular Service Apartment can change as per logo color. 
+
+Top 12 Amenities need to be displayed in Facilities @ Service Apartment name required.
+
+3.    Customize Home Options - Footer (Title / Heading, Name / Keyword with Manual link required). Book Now & Pay Now need to have a manual link.   
+
+Link of Youtube & Google Map not connected to frontend Home page & Contact Us pages respectively. 
+
+4.    About Us (frontend) – same Photo displaying twice. Link displaying after About Us.
+
+5. Accommodation – Display contents below Room Type in Accommodation page. Each Room Type needs to have Title, Keywords, descriptions & URL for that particular Room Type for better SEO.
+
+Room Facility can be taken from the Amenities option. Pricing in Dollar - $ need to change in Rupees – R.
+
+Check Availability Form not working. This needs to connect to the Enquiry Form to submit enquiry which needs to connect with email as well as Admin Enquiry option.
+
+6. Amenities & Packages need to be common for all subdomains. We will discuss it on call or in the next meeting.
+
+7. Rename Testimonials to Reviews & Add Review Source ( Name & Link manually ) eg. Google Reviews / TripAdvisor & Reviews snippets and other Schema Data for better SEO ranking.
+
+8. Location & Blog pages not working. Option name should be Location & URL as location-advantages. Blog will be picked from the main website. This WordPress blog needs to have free Rankmath integration for better SEO.
+
+All subdomains & main domains need to have Live Chat / Chatbot, whatsapp, push notification XML Sitemap, shema data & Review snippets etc. for better SEO.
+
+--- My notes ---
+9. logo png/jpeg only - DONE
+10. logo color detect or theme base changed 
+11. youtube link & googlemap not working
+12.   FACILITIES @ {D-HABITAT}- subdomain name  & facility add one times & select/tickmark for add multiple facility 
+13. common selection for all subdomains - facility & amenities, package
+14. FOOTER FACILITY 
+	1. TITLE ONE 2. TITLE TWO 3. TITLE THREE 4. TITLE FOUR 
+	-> sub title of all above manual links & arrow mark left
+15. HOME 
+ 	1. Footer - Pay Now text with manual link
+	2. header - Book Now text with manual link
+16. ABOUT
+	i. center photo not required 
+	ii. two colun with 
+17. Accommodation
+	http://southdelhi.eserviceapartments.com/accommodation - below icons  contents with more button link & url should be room type
+	1. room facility will common & tick mark for add multiple at one times	
+	2. room type - INR 2199/ NIGHT
+	3. CHECK AVAIL- BUTTON : after click open new form name, email, phone no. messsage then to mail & admin panel  & name email phone no - enter then send to mail 
+19. SEO TAGS FOR ALL PAGES & DYNAMIC PAGES 
+
+
+20. https://www.tawk.to/ - add live chat & ask for  first name & number
+21. testimonial to review & review source name & link optional
+
+22. locatioin advantages 
+	1. map link & area from admin panel
+	2. for near eservicapartments
+	3. url - location-advantages
+	4. side map & location area like hospital ___ 2km
+
+23. BLOGS
+	1. use iframe for embed using url from main website
+	2. whole page excpet header & footer
+24. CONTACT banner image
+
+
+
+<===============>
+Dear Mr. Sajid, 
+
+Please find the below changes required in Admin of Subdomain websites: -
+
+1.  Please change login url http://sajid.eserviceapartments.com/admin/ to https://securelogin.eserviceapartments.com/admin/ and user name from admin@resort.in to admin@eserviceapartments.com
+=> http://securelogin.eserviceapartments.com/admin  Note : its not  with https yet & you can type anything submdomain name, & its redirect to admin panel ok & becasue its dynamic subdomain in your domain
+
+2.    Footer Facility ( under Home ) is not working & getting below error messages. | FIXED
+
+3.    Customize Home ( under Home ) is asking to put details every time when we edit. Please display the old one & change only the particular value we want to edit. | FIXED
+
+4.     Getting below Error when Adding a Room Type ( Accommodation section mostly functions are not working ) | FIXED
+ 
+
+5.     Room Amenities displaying in Amenities page is not displaying in Facilities of Home Page. Please workout something from where we can menage Amenities / Facilities & Packages from a common source for every subdomains & 90% things will be common as we discussed earlier.  
+=> amenities will be same of every domain  | UPDATED
+
+FACILITIES @ Service Name not coming
+6.     Packages will be common in a city as discussed earlier. I will discuss the same with the developer for the same. | FIXED
+
+7.     Photo Gallery (spelling needs to check and correct) backend functionality is not connected to frontend as a result changes do not reflect on frontend.  | FIXED
+
+8.     Location Advantages & Blog pages are not working on frontend & not found at the backend. | NOT IMPLEMENTED YET! - I will do 

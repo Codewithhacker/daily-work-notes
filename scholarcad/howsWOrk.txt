@@ -1,0 +1,44 @@
+=> REST OF FEATURE
+	1. PAYMENT
+		i. receipt to customer email
+		ii. UPI, WALLET, NET BANKING, DEBIT CARD
+	2. USER PANEL 
+		i. user dashboard
+		ii. user enrolled section
+	3. Timezone different
+
+New Features 
+	1. Payment Interigation Test Mode Activated in schoalarcard
+		=> Test Debit Card :		
+			4242 4242 4242 4242 
+			Expiry 04/25
+			CCV 879
+	2. Cart Page 
+		i. if user continue without login & then fillup the user details else not
+		ii. if user logged, then user can direct checkout from cart page 
+		iii. while click decrease learner total of course price (which is showing in bottom button of total price) - Error Fixed
+	3. Admin Panel
+		i. Enrolled User  : Re - Modify column as per payment interigation & created an page for view the course items/scheduled in for single user
+
+
+
+
+
+
+1. if you browse https://scholaracad.com/us 
+	its will set auto india to all website
+	1.1 there if you browse https://scholaracad.com/ & go to dynamic course section there's sechdule will be show only for india
+
+2. if you direct access dynamic course example : (direct access course from google search engine)
+	2.1. https://scholaracad.com/us/cobit-certification-course
+		Now this is time web is for UNITED STATES
+		And All US Course Schedule will be show 
+		And Content will changed : cobit-certification-course in UNITED STATES
+	2.2 Now if u again access without https://scholaracad.com/cobit-certification-course
+		Now its time web is already set as UNITED STAETS
+		So, ONly US Course Schedule will be display 
+
+3. https://scholaracad.com/ii/course_nameORpageName - now ii is not country iso2, SO its will redirect to home page
+Notes - Home Page & dynamic page implemented only ! other pages content will not changed with Country Name & but it can be access like https://scholaracad.com/us/about OR https://scholaracad.com/about
+	
+	

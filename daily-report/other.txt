@@ -1,0 +1,63 @@
+19/02/202 
+	1. Scholaracad : 10 to 11:30
+		=> user panel setup
+	2. http://firstflyaviation.in 
+		=> Footer Social Icon design fixed
+		=> Mobile View Topbar not visible - Fixed & re-designed for desktop & mobile view - 15:24 to 15:59
+	3. Shipmiles - Admin Features Report Created 5:45pm : 6:30pm
+
+18/02/2022 : 10 to 5
+	1. A2Z website (by laxman sir)
+		=> Admin Panel Done - Created 6 Table with CRUD operation & in database 
+		=> frontend connect of 20% from admin panel		
+		=> convert html page to php codeigniter 4
+	2. Citroen 5 to 6:45(by laxman sir)
+		i. career page created & add contents
+		ii. admin panel - Created two table & in database with Display table data
+		iii. dealership form data send to admin panel 
+	3. 20 mints for rapidex
+
+17/02/2022
+	1. Mauliuniform : Time 10:30 to 11:10
+		=> invoice, measurement, qoutation :  added an title input
+		=> measurement : change status of measurment without edit button (now can be change status from direct table)
+	2. (By Laxman Sir) - http://firstflyaviation.in/ 11:10 to 12:15
+		=> social icon & links  added 
+		=> some layout fixed in home page for whatsapp button & commercial pilot course category table responsive 
+		=> banner height extra in mobile view fixed
+		=> 5:31 to 5:45 fly avivation : changed design 
+	3. Scholaracard  4:15 to 5:30
+		-> checkout with user registration| after complete the payment proceeds, account not activated as forget password| FIXED
+	
+
+15/02/2022 : Time : 1:45 pm to 5:30
+	1. One Dunia (by Laxman Sir)
+		 1. thik kia hai, menu bar height jyeda lag ri thi,, kam kri hai 
+		 2. tracking work kr rahi hai, website & admin panel 
+		 3. Whatsapp & phone float icon ko transparent kia hai,, becasue mobile  view mei bottom mei footer show nhi ho raha tha   
+		 4. our service - layout fixed 
+	2. http://firstflyaviation.in
+		=> Contents Added in course page of client :  http://firstflyaviation.in/the-International-english-language-testing-system.php
+		=> Contents Added in course page of client : http://firstflyaviation.in/commercial-pilot-training.php
+		=> Header  & footer seprated
+		=> whatsapp & call button added
+
+14-02-2022
+	1. Assigned Work by Laxman sir , Time Spend : 3:45 to 6:10
+		=> design & added the clients contents in this page http://firstflyaviation.in/ground_staff_training.html
+		=> course category dropdown designed
+		=> http://firstflyaviation.in/
+	2. https://scholaracad.com Time Spend : 10 to 3:30
+		1. Payment Interigation Test Mode Activated in schoalarcard
+		=> Test Debit Card :		
+			4242 4242 4242 4242 
+			Expiry 04/25
+			CCV 879
+		2. Cart Page 
+			i. if user continue without login & then fillup the user details else not
+			ii. if user logged, then user can direct checkout from cart page 
+			iii. while click decrease learner total of course price (which is showing in bottom button of total price) - Error Fixed
+		3. Admin Panel
+			i. Enrolled User  : Re - Modify column as per payment interigation & created an page for view the course items/scheduled in for single user	
+		4. Backup Whole Website to laptop for install stripe package for payment interigation & thereafter reuploaded to hosting server
+

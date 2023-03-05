@@ -1,0 +1,20 @@
+db configuration
+1. a_rapidex.in/include - 2 file
+2. admin/config - 2file
+3. adminiwebs/config.php
+
+	=> all things in helper/helper.php
+
+1. configuration url or path for helper.php
+
+	=> include/api/charges.phpc
+	=> international delhi/include/header.php
+	=> custom.js - website-url
+	=> assets/dynamicJs
+	=> admin/includes/header.php
+
+
+rapidex.word.com changed
+1. robots.txt
+2. sitemap
+3. 

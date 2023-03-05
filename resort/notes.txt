@@ -1,0 +1,27 @@
+=> SUBDOMAIN
+	1. whatsapp & call btn added
+	2. popup enquiry form added
+	3. blogs page created & can add blog from admin panel
+	4. location advantage added
+
+admin@eserviceapartments.com
+admin@123
+
+Please find the login details as per our discussion :- 
+
+1. Gmail : maxfortgroupinfo@gmail.com
+Password : Maxfort@6484
+
+2. RankMath : https://rankmath.com/wordpress/plugin/seo-suite/
+Email : maxfortgroupinfo@gmail.com
+Username: r k jha
+Password: p0wD1oNbdYRI
+
+3. Onesignal push notification : https://dashboard.onesignal.com/apps
+
+User Id : maxfortgroupinfo@gmail.com
+Password : Maxfort@6484
+
+4. Live Chat : https://dashboard.tawk.to/
+User Id : maxfortgroupinfo@gmail.com
+Password : Maxfort@6484

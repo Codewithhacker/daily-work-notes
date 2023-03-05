@@ -1,0 +1,282 @@
+=> top to button not work in mobiel view- fixed
+
+=> CHARGS PAGE CONTENT - DONE
+	I. FAQS
+	II. POINTS & IMAGE (check jpg - and image in charge page bottom of query form.jpg)
+	III. CONTENTS
+	IV. GOOGLE REIVEW
+=> FILTER COUNTRY NAME AS PER CLIENT COUNTRY SERVICE
+=> pincode & additional logic package type - will apply in charges pages
+=> normal admin can not edit yes or no
+=> minfiy the pages of area & country
+=> Reference  - https://www.translinkexp.com/International-Courier-Service/Courier-To-Usa-From-Delhi
+	1. call button expand
+	2. bottom slide up animation content
+=> Payment Intrigation
+=> Whatsapp Green Tick - again apply 25 MARCH
+
+
+=> dynamicSection.jpg dynamic section after three BOX IN HOME - DONE
+
+ <-------------- OLD TRASH -------------->
+30/11/2022
+=> image download of bill || DONE
+=> correct the actual weight in bill| DONE
+=> email id not compulsary in add awb form | DONE
+=> when select country then auto complete to consingee country dial number code | DONE	
+
+29/11/2022
+=> add invoice value currency | done
+=> invoice content in bill show under description of goods | done
+=> if create invoice,, content will empty | done
+=> remove blank space from add awb date  | DONE
+add awb - 
+	=> actual weight 10.8 not accpet in first box no.| DONE
+	=> telephone no. enter the placeholder Ex. |DONE
+	=> zip/postal code consignee should be after country input box | DONE
+	=> clear the invoice if uncheck the invoice create | DONE
+	=> all add awb input box size/width should be equal | 
+
+
+=> bill share option | DONE
+=> whatsapp message content changed | DONE
+=> PICKUP LOCATION DYNAMIC  | done
+=> old enquiry form removed and new setup and some page | done
+=> testimonial not working fixed | done
+=> GOOGLE REVIEW API ON WORKING... | wait for 1-2 weeks
+=> Enquiry form design impact from country page | DONE
+=> TAB- UPDATE SHIPMENT HISTORY : while update status for delivery and out for delivery whatsapp message not working | FIXED
+UPWARD THE NEW MONTH REPORT
+
+
+< END ===== END >
+
+
+=> QR CODE - https://www.facebook.com/qr/show/code/?margin=1&pixel_size=5&data=otpauth%3A%2F%2Ftotp%2Frwexx%3Fsecret%3D67QUOBWFGLMIO33PRQPLTMPGO6QYWYBQ%26digits%3D6%26issuer%3DFacebook&hash=AQBueO9V_6MCH478gH0 OR  67QU OBWF GLMI O33P RQPL TMPG O6QY WYBQ
+=> Back Date me koi air waybill create hi na ho pae | done
+
+=> Ye Entry maine abhi ki hai isme jo baaki ki 3 entry aapne hide ki hue hai usko show kar do aur maximum Date 31.12.2099 ka karwa dena sir | DONE
+
+Only for 
+===> 1st entry with 4th entry fixed 10:00pm night | DONE
+===> 1st and 4th entry different time will equllay to 2th 3rd entry |DONE
+first entry  12:00pm 
+2nd 
+3rd 
+4th entry 10:00 tonight
+
+
+===> TRACKING STATUS SHOWING THREE STEP
+	1. NORMAL STATUS WITH DELIVERY WITH STATUS 
+	2. NETWORK WITH STATUS WITH DELIVERY
+Problem
+	1. SHIPMENT STATUS - $statusValue1 = $requestDataLog[$i]['description']; leave
+
+
+
+=> Updateshipment information when click add new ,, status should update as per awb add new  tab
+=> check time update is fine 
+=> CHOOSE DHL NETWORK change status| DONE
+=> update status text - Shipment Picked Up by Rapidex - send whatsapp message when update status | DONE
+
+=> make 200 countries page as per pakistan page | DONE
+=> sender /  receiver sms sent and if number is not available, form will be add | DONE
+	But problem -if re enter whatsapp enter | added double awb 	
+	- solution : delete last added awb from pickup request, log and awb table
+
+=> only for super admin code : 51 code with awb no. also 51.... | NEW WILL BE AS 51 , and update data its will update whenever changed admin code ok
+
+=> https://rapidexworldwide.com/international-courier-service-delhi/ - isme bhi query form lagana h vhi | DONE
+=> Package Type me Medicine me Weight ya Volume 1.5kg se jyada hone par bhi On Call wala option aa jae | DONE
+
+=> while add awb forwarding should be everywhere like bill, invoice and updateshipment tab | DONE
+=> DESIGN PART BILL
+	=> bill -> shipper copy like account copy 
+	=> both copy of bill up and down design should be same 
+	=> bill barcode should be same size| DONE
+	=> 24 Kg1. fixed in bill and // remove slash | DONE
+	=> Modify Search bhi iske size height and width as per service page model
+
+
+=> service not available | DONE
+=> testimonial and design copy | DONE
+	=> rate calculator page - weight screen as per show request for call and because its efffect from demension : service not available | DONE
+
+=> Package Type me Medicine me Weight ya Volume 1.5kg se jyada hone par bhi On Call wala option aa jae | DONE
+=> confirm page : weight slab/charges as per list.page and amount also | DONE
+=> contact us from should be as per model | DONE
+=> list.php page - Get 35% off on ₹ 20248 /- increase height of rupees amount |DONE
+=> AIRWAY BILL WHILE ADDING, NOT SHOW IN ADD AWB PAGE TAB | DONE
+=> CAPTCHA NOT WORKING sign up page | DONE
+
+=> check data excel file 
+	=> POP UP VISIBLE ONLY AFTER TWO WEEK  AND DATA NOT SHOWING | DONE
+	=> THREE MONTHS BAD DATA NOT VISIBLE AND pop up show  | WAIT FOR RESPONSE
+	=> AFTER 3 MONTHS HISTORY AUTOMATIC DELETE HO JAE.| WAIT FOR RESPONSE
+	=> AUTOMATIC ENTRY  OF UPDATE SHIPMENT HISTORY DATA| DONE 
+	=> whatsapp sms api
+
+=> 
+$w_t = (string)"10.5";
+$w = explode("-",$w_t);
+if(strpos($w_t,".")) {
+	echo $w[0]." Kg";
+}else if($w[1]==null){
+	echo $w[0].".0 Kg";
+}else {
+	echo $w[0].".0 Kg to ".$w[1].".0 Kg";
+}
+
+
+=>  31/10/20022
+       1. enquiry form of 200 countries seprate form and same field as home page field rapid site | DONE
+       2. countries page dynamic some content like 50%-60, amount 1950rs. image  | DONE
+       3. service Tab->getCharge change input field as per home page enquiry form | DONE
+
+=> HEADER AND FOOTER MAKING PAGE
+	1. folder/Index.php leave
+	2. https://rapidexworldwide.com/old/inoffer-usa.php | origin form auto suggestion not working
+	3. remove diwali popup
+
+-> PACKETS DELIVERY KE 2 WEEKS BAAD AGAR KOI TRACK KARE HISTORY TRACKING WILL NOT VISILBE AT TRACKING PAGE WEBSITE, Message : Your tracking Details could not visilbe after two weeks of delivered  shipment.
+	trakcing 4201042653  && DHL API  | DONE 
+
+-> AFTER 3 MONTHS HISTORY  LOGS AUTOMATIC DELETE HO JAE. | DONE
+
+-> those pickup request of table column admin code is 0, Now its 57 who is belong to super-admin| DONE
+
+-> header and footer 
+			if(trim(strtolower($requestDataLog[0]["description"]))=="delivered")    
+                            $deliver_date1 = $requestDataLog[0]["add_date"];
+                            $delivery_date = date("d-m-Y",strtotime($deliver_date1));
+                            
+                            $invisible_date1 = strtotime('+2 weeks', strtotime($delivery_date));
+                            $invisible_date = date("d-m-Y",$invisible_date1);
+                            
+                            $todayDate = date("d-m-Y");
+                            
+                            // echo $todayDate . " is less than ? ". $invisible_date;
+
+                            
+                            if(strtotime($todayDate) > strtotime($invisible_date) ){
+
+
+
+
+super admin : 
+	- can remove any admin and edit thats information
+	- show all admins added awb data in awb_tab
+	- add admin with any unique 2 digit number
+	- super admin can update there profile information and password
+
+Normal Admin :
+	- can update there profile information and password but they cant update there unique two digit number which is assigned by super admin
+	- they can not see all admins tracking - awb_tab data excpet his/her admin data
+	- hidden the dashboard information of pickup request count and enquiry tab from normal admin
+
+=> show updateshipment information from selected row; 10,20,30,40,50,100,200 with pagintion;
+
+=> Pending 
+	- connect all apis to all network provider  like DHL
+
+
+
+10/14/2022
+NEW SUPER ADMIN FEATURES - 
+
+NEW ADMIN FEATURES - 
+ 	1. Profile Tab
+	2. AWB_TAB
+	3. unique id is tracking no. of starting two digit
+	4. 
+
+	=> Tracking No. 
+	56  - assign by super admin 
+	13 - day
+	10 - Month
+	2022 - year
+	01 - increase by adding the no.  
+<td> <a href="add_awb.php?id=<?=$row['id']; ?>"><?= $_SESSION['admin_code']. date('dmY',strtotime($row['added']));?><?=$row['tracking_no'];?></a></td>
+
+
+
+OLD DATE
+
+
+- bill printing should be equal spacing from either side
+- invoice from upperside table  border issue
+- demensional weight formula check
+
+
+
+
+- cash and credit, insurance checkbox in form kyc | DONE
+- take barcode seprate image and enter the number manually | DONE
+- total amount update not working | javascript logic wrong; 
+
+- update file upload is not working | DONE
+- total amount = fright value | DONE
+- before amount, symbol of currency | DONE
+- telephone and zipcode mandatory | DONE
+- All letters value are uppercase | DONE
+-  Attached Documents all images  not showing | DONE
+
+
+Notes : 
+=> Update Image : 
+	1. oldShipperKycImage = fetch all shipper kyc images which has json formate, decode from json 
+	2. newShipperKycImage = post request shipper kyc images 
+	3. 
+		if(!in_array("$value", newShpperKycImage)){
+			
+		}
+	
+	
+
+
+
+
+ALL CURRENCY : https://gist.github.com/champsupertramp/95493faa7ba12b61bf6e
+
+=> pending
+
+-  shipper column country will be USA default || ERROR: internal database issue, but country now first letter capital	
+- bill printing area should be fit with A4 and letter size 
+
+= > COMPLETED
+- when generate invoice, fright charge will auto accept by below said generated invoice value
+- shipper kyc, uploaded page 1, attached file instead of uploade file
+- change name fright charges to fright value 
+- Whenever click generate invoice and click checkbox, fright charges must be editable
+	=> editable value of fright value  in bill.php, Inv. Value table
+PRINTING PAGE
+- fright value center in printing 
+- center invoice signature and image , downward signautre || DONE
+ - destination will be small letter 
+- do not open another tab while click any link in awb form 
+- select option will be ucwords(); || DONE but,  some country words default capital
+- awb no. and barcode  should be hd quality || improve 50%
+- bill page, bottom rapid logo and and text should be right 
+
+
+	
+
+
+
+removed  : 
+<h5 style="color:#101453;font-size:10px;font-weight: 600; display: flex; width: 100%; justify-content: space-between; padding:5px; align-items: center;">Amount : 
+                                
+                           <?    $totalamoun=0; 
+                                    for($k=1;$k<count($data['free_form_line_items_attributes']['box_no']);$k++){
+
+             $totalamoun+=$data['free_form_line_items_attributes']['amount'][$k];     
+           
+        
+         
+         
+ }  ?>   <p style="text-align:center;"><?=($totalamoun)?$totalamoun.' '.$data['free_form_currency']:'';?></p> 
+ </h5>
+
+
+shipment value/fright value curreny only inr
+                                                                    <?=($jData['shipment_value_currency'])?"<option value='".$jData['shipment_value_currency']."'>".$jData['shipment_value_currency']."</option>":'';?>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

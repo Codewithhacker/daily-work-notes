@@ -1,0 +1,8 @@
+1. subdomain - 11 to 1
+
+2. rapidex
+
+3. shipmiles - over the backend 1 to 2:30
+	i. rate calculator - 
+		i. create all table which is required in database
+		ii. CRUD operation of all step i. table in admin panel

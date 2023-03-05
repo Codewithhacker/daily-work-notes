@@ -1,0 +1,258 @@
+04/03/2022
+I. hiremyescort(by laxman sir) 10:00 to 10:30
+	i. redirect to 404 page not found if pagination ?page=1
+	ii. pagination - remove ?page=1 in pagination links of post
+
+II. RESORT (subdomain) 10:30 TO 12:30 
+	i. design locaion advantage page
+	ii. location advantage table created in database
+	iii. location advantage page content dynamic  ADD & UPDATE feature add in admin panel
+	iv. display data from database in location advantage page	
+
+III. RAPIEEX 12:30 to 13:20
+	I. google review added in country page & replace in delhi page
+	II. SOME LINE/WORD CHANGE VIA WHATSAPP RAPIDEX
+
+III. RAPIEEX 15:00 to 5:30
+	I. CALL BTN DESING & BOX
+	II. SOME LINE/WORD/DESIGN CHANGE VIA ON WHATSAPP RAPIDEX
+	III. DESIGN
+
+IV. SHIPMILES 5:30 to 7:30
+	I. RATE-CALCULATOR
+		- Booking Form Table Created in Database
+		- After Click Book Now - data saved in booking form table
+		- secure page - book.php without token can not access this page
+		- book.php page - design (50%)
+
+03/03/2022
+I. FILTER MAULI WORK REPORT & SEND TO LAXAMN SIR (10:15 TO 10:34) 
+II. SHIPMILES 10:34 to  4:00
+	i. DESIGN RATE CALCUALTOR PAGE 	
+	ii. CONNECT RATE CALCULATOR in frontend from admin panel
+III. RAPIDEX 4:00
+	i. (50% work) design call button like - https://www.translinkexp.com/International-Courier-Service/Courier-To-Usa-From-Delhi
+	ii. reposition text box in home page -  International Courier Charges to USA, UK, UAE, Europe...With Rapidex
+	iii. google review image in with testimonial(google review)
+	iv. & some design fix via on whatsapp
+
+
+02/03/2023
+I. RESORT 10:15 to 12:44
+	i. ENQUIRY POPUP FORM DATA TO MAIL 
+	ii. BLOG ADD, DELETE, UPDATE EDIT in Admin Panel
+	iii. BLOGS PAGE data dynamic
+II. 12:44 to 2:35 & 15:00 to 15:15
+	=> RAPIDEX 
+		i. client review changed in home page
+		ii. contents add in page - https://rapidexworldwide.in/ups-courier/delhi-to-afghanistan-charges.php
+		iii. change some contents word in -  charges page
+	=> RESORT
+		i. created page & display blogs data dynmaic in - http://southdelhi.eserviceapartments.com/blogs
+		ii. dynamic single blog page created & display data database
+		iii. created two table blogs & blog in database
+III. RAPIDEX - 15:15 to 15:29
+	i. changed design of home page price box (heading - Internatinal Courier Charges From USA, UK, CANADA)
+
+IV. 15:29 to 17:20
+	=> SHIPMILES 
+		i. inlcuded library Database in shipmiles website
+		ii. setup shipmiles website to laptop
+	=> created  & send notes to resort client
+	=> MAULI
+		i. receive work table - dropdown added for change status 
+
+V. 17:20 to 6:00
+	I. A2Z WEBSITE (BY LAXMAN SIR)	
+		- 10 state & 31 city added in admin panel
+VI. MAULI 6 to  10
+	I. dropdown content status change
+
+V. RESORT 6:10 TO 6:30
+	I. SETUP FOR PUSH NOTICATION IN ESERVICE APARTMENT  
+
+
+01/03/2023
+I. MAULI 10:00 to 10:15	
+	i. mauli_account table export to excel
+II. RAPIDEX 10 to 10:58
+	i. google reivew added with design in https://rapidexworldwide.in/ups-courier/delhi-to-afghanistan-charges.php
+III. SHIPMILES 11 to 5:00
+	I. ADD, DELETE, EDIT, DISPLAY, 
+		- SERVICE TABLE
+		- RATELIST
+		- COUNTRY
+		- PACKAGE
+IV. RAMCHANDRA
+	I. CONTACT FORM SEND TO ADMIN MAIL
+
+V. RESORT 5 TO 6:30
+	I. WHATSAPP & CALL BTN ADDED
+	II. POPUP ENQUIRY FFORM CREATED
+
+28/02/2023 
+1. RAPIDEX 10 to 13:36
+	i. delhi & country page (Popular Destination for Sending..) - all url updated with .php
+	ii. Top Country Header - set default to "DELHI" in ups-courier/delhi-to-afghanistan-charges.php page
+	iii. Country Page - near_location dynamic added 
+	iv. CLIENTS Contents Added & replaced to dynamic word base of url -  https://rapidexworldwide.in/ups-courier/alipur-to-afghanistan-charges.php
+	v. page contents discuss with laxman sir/client sir
+
+II. ZRAMEX 13:36 TO 1:55
+	I. 6 SERVICE PAGES - ACTIVE RED COLOR IN SIDEBAR BAR MENU
+
+III. 1:55 TO 2:15
+	i. firstflyaviation : changed background image of home page
+	ii. existay site - link update becuase of SSL added
+
+IV. SHIPMILES 2:15 to 5:41
+=> ADMIN PANEL
+	i. login, logout dashboard, update profile, change-password
+
+V. RAPIDEX 5:41 TO 18:23
+	I. FAQS CONTENTS ADDED in charges page
+
+
+27/02/2022
+1. MAULI - 11:33 to 13:44 (plus 1hr for inventory=>i)
+	=> Inventory 
+		i. auto name suggestion in inventory - 	in five place 
+		ii. alphabetically order in - three place
+		iii. Filter Data Datewise for Inventory Reports (Assign Work)
+	=> Invoice
+		i. Export Excel Report of Invoice Payment
+
+2. RAMCHANDRA 13:44 to 14:39
+	=> admin panel - admin can add multiple image/video
+	=> remove extra fileds input
+
+3. A2ZCITY 15:00 to 16:12
+	=> webiste background changed & wp/call/btn added 
+	=> designed work
+
+4. SCHOLARACAD 16:12 to 16:45
+	i. data will not delete permanent - Feature Added
+
+5. MAULI 16:45 to 17:39 
+	=> Mauli Account
+		i. table create in database, display data, add data, delete data
+
+6. SCHOLARACAD 17:39 to 18:18
+	=> created work notes to send client
+
+25/02/2022
+1. RAMCHANDRA (by laxman sir) 10:to 11:10
+	i. admission form request send to mail
+	ii. gallery me photo ke sath video dalna ka bhi option ho
+	iii 2 line content changed as per client
+2. MAULI 11:10 to 12:45
+	i. INVOICE TABLE
+		=> Adjust Balance Amount in invoice_payment when add invoice in back date invoice
+		=> Adjust Balance Amount in invoice_payment when edit invoice in back date invoice
+	ii. FIXED BUGS : Time Take 5 mnts
+		=> In Report of Producer Stock 
+	iii. DISPLAY DATA INVOICE DATE WISE & SEPRATE FOR DISPLAY PI INVOICE & NORMAL INVOICE  13:05 TO 13:21
+3. A2ZCITY 12:45 to 3:30
+	I. design box IN HOME PAGE 
+	II. DISPLAY DATA FROM ADMIN PANEL TO DESIGN BOX
+
+5. OFFICE WORK POSITION SHIFTING AND MAULI BUGS FIXED FOR INVOICE_PAYMENT TABLE
+
+6. APSARA SITE (by laxman sir)6 TO 6:30
+	I. TRY TO IMPORVE SITE PERFORMANCE 
+
+	
+	
+
+
+24/02/2022 10 to 16:05
+1. MAULI	
+	i. invoice_paymnet Table
+		=> Fixed Balance_amount data as per debit & credit of old invoice data
+		=> Adjust Balance Amount when delete in invoice_payment table row data
+		=> Adjust Balance Amount when add credit entry in invoice_payment table row data
+2. scholaracad 16:05 to 6:15
+		i. country table added an column "isPage" & add, edit, 
+		ii. website footer select country list display from database
+		iii. https://scholaracad.com/all-courses
+			- display all course category data & number course which is added thats category
+			- trainig form added 
+		iv. removed unnecessary page links from footer
+		v. - view page created for chat design with admin | Aborted
+			- instead of when create support form data will send to admin email
+
+3. A2ZCITY 6:15 to  6:30 (by laxman sir)
+	i. background image added to whole website
+	
+
+23/02/2022
+1. MAULIUNFIROM  10 to 11 & 12 to 5:30 & 6 TO 6:30
+	i. return assign - tailor_name duplicate | FIXED
+	ii. Invoice Payment 
+		- re modify database table as per mauli sir  - 2 times
+		- re-modify create, display, delete  - 2 times
+		- when invoice add or edit, auto entry in invoice payment
+		- invoice all data added in invoice_payment table database
+		- INVOICE PI - removed from invoice_Payment table  and when add new invoice
+		 
+2. scholarcad : 11:00 to 12:00pm
+	i. when user create support form - send to admin email 
+	ii. admin & user active status feature added
+	iii. country table - isPage column added : 5:40 to 6:00
+
+
+
+
+
+
+22/02/2022
+1. MAULIUNIFORM : 10 to 11:40
+	1. Invoice Payment
+		i. create, display, delete in admin panel- DONE 
+		ii. table created in database for invoice payment
+
+2. Scholaracad : 11:40 to 6:00 & in this time talk to pawan jangar(mauli) for new features		
+	=> Admin Panel
+		i. Admin Panel course Schedule -  time check of any country
+			- if india time is 10:00 then what is time in (any_country_name)
+		ii. Admin Panel CSC(country state city) Manage -  display current time of every country
+
+	=> User Panel Features Added
+		i. Authenticated as subdomain from main domain
+			- if user login in https://scholaracad.com/login & then redirected to https://user.scholaracad.com/ otherwise redirect to home page
+		ii. My Orders  
+			- display user enrolled course data
+		iii. Help & Support
+			- user can create support & support data display in table
+			- view page created for chat design with admin 
+		iv. My Profile 
+			- user can update their profil date like address, name, phone no. and profile photo
+		v.  change Password
+			- user can change account password 
+
+			
+
+21/02/2022
+	1. ZRAMEX : 10 to 11:30
+		=> 7 Page Contact Us Form Activated and send to zramex mail
+		=> Booking Form Activated & send to mail
+		=> contact-us.html & help-support.html : fixed mail to sending & changed success mail line
+	
+	2. RAPIDEX : 11:30 to 1:30 
+		=> ratelist table modify as per our country table & service(network id)	
+		=> then display data of charges in https://rapidexworldwide.in/ups-courier/janakpuri-to-afghanistan-charges.php
+
+	3. citroencardealers.in : 1:30 to 2:10
+		=> website moved from citroencardealers.com to citroencardealers.in
+			1.  dealership form fixed error for send data in admin panel
+	4. RAPIDEX 2:10 to 2:30 & 3:00 to 4:35
+		=> Courieer Charges Create, delete, update, display in admin panel
+		=> Then Display Data & Design Box - Internatinal Courier Charges From USA, UK, CANADA (https://rapidexworldwide.in/)
+	5. http://localwaste.ae/clone/(work by laxman sir) 4:35 to 6:30
+		=> copied website theme from https://trentlimited.com/
+
+		
+
+ 
+			
+		

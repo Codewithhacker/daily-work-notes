@@ -1,0 +1,12 @@
+ESERVICE APARTMENT
+=> FAQS FOR SEPRATE PAGE & AUTO LINK GENERATE WITH QA | DONE
+=> FAQS SORT ORDER | DONE
+
+
+1. ABOUT , PRIVACY POLIYC, DISCLAIMER, OUR PARTNER - contents will add from admin panel tab => WEB CONTENT
+2. apartment area  - new tab in admin panel 
+3. city page - dynamic
+4. subscribers - new tab in admin panel for user notification in email - whenever new apartment will add
+5. some fix photo is not displaying
+6. blogs - wordpress
+

@@ -1,0 +1,65 @@
+-> https://rapidexworldwide.in/international-courier-service-(country/state/city)  - DONE
+-> https://rapidexworldwide.in/international-courier-service-(country/state/city)/(country/state) - DONE
+
+
+=> Admin Panel
+	1. Manage CSC 
+	2. Pickup Location - DONE
+		2.1 country(pickup_location.php) - DONE 
+		2.2 state (state_from.php) - DONE
+		2.3 city (city_from.php) - DONE
+	3. Destination - one table difference of csc_type
+		3.1 => pickup location 2.1 - DONE
+			3.1.1 country (destination_to.php) - DONE
+			3.1.2 state (destination_to_state.php) - DONE
+			3.1.3 city (destination_to_country.php) - DONE
+		
+		3.2 => pickup location 2.2
+			3.2.1 country (destination_to.php) - DONE
+			3.2.2 state (destination_to_state.php) - DONE
+			3.2.3 city (destination_to_country.php) - DONE
+		
+		3.3 => pickup location 2.3 - DONE
+			3.3.1 country (destination_to.php)  - DONE
+			3.3.2 state (destination_to_state.php) - DONE
+			3.3.3 city (destination_to_country.php) - DONE
+		
+
+
+=> URL GENERATING METHOD
+	1. From : state, city & country 
+	2. To : state, city & country
+		i. from to city 
+		ii. from to country
+		iii. from to state
+
+	=> url will generate		
+		i. from_state/to_city 
+		ii. from_state/to_state
+		iii. from_state/to_country #DONE
+
+		iv. from_city/to_city
+		v. from_city/to_state
+		vi. from_city/to_country #DONE
+		
+		vii. from_country/to_city
+		viii. from_country/to_state
+		ix. from_country/to_country done
+
+=> unit testing
+	i. hit url : https://rapidexworldwide.in/international-courier-service-delhi
+		1. first search url "delhi" in country 
+		2. if not found in 1st step then check url "UK" in state 
+		3. if not found 2nd step then check url "UK" in city 
+		4. if still not found redirect to home page 
+
+	ii. hit url : https://rapidexworldwide.in/international-courier-service-delhi/uk
+		1. first check step i. for delhi as describe above hit url
+		2. if found step 1, then search url "UK" in country as delhi`s selected country
+		3. if not found in 1st step then check url "UK" in state as delhi`s selected country
+		4. if not found 2nd step then check url "UK" in city as delhi`s selected country
+		5. if still not found redirect to home page 
+
+=> DATABASE 
+	i. 
+		

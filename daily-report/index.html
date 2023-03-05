@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.min.css">
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<input type="text" id="myInput">
+
+<ul id="myList"></ul>
+
+
+<script src="https://rapidexworldwide.com/admin/assets/js/jquery.min.js"></script
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.bundle.min.js"></script>
+
+<script>
+// Initialize Bloodhound engine
+var myEngine = new Bloodhound({
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
+    queryTokenizer: Bloodhound.tokenizers.whitespace,
+    prefetch: {
+        url: 'my_data.json',
+        filter: function(list) {
+            return $.map(list, function(data) {
+                return { value: data.name };
+            });
+        }
+    }
+});
+
+// Initialize Typeahead.js plugin
+$('#myInput').typeahead({
+    hint: true,
+    highlight: true,
+    minLength: 1
+},
+{
+    name: 'myEngine',
+    display: 'value',
+    source: myEngine.ttAdapter()
+});
+
+// Add selected item to list
+$('#myInput').on('typeahead:selected', function(e, data) {
+    $('#myList').append('<li>' + data.value + '</li>');
+});
+
+</script>
+
+</body>
+</html>
+
+

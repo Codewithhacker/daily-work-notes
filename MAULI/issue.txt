@@ -1,0 +1,7 @@
+1. add stock items
+2. assign stock items
+	then add same stock item 
+	then assign same stock item to same tailor
+	-> Now issued arise ! in stock items
+		because if 1st items assign fully then items in balance
+

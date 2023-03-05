@@ -1,0 +1,132 @@
+=> USER PANEL	
+	- change password
+	- update profile
+	- user enrolled course display
+	- support ticket & thats support ticket send to admin email
+Note - Required Subdomain for user panel - https//user.scholaracad.com
+
+=> if country isPage = yes;  thats country service not available in website
+=> data will not delete permanent - Feature Added
+=> new page course list - https://scholaracad.com/all-courses
+
+=> ADMIN PANEL
+	- time check of any country( if india time is 10:00 then what is time in (any_country_name)
+	- CSC(country state city) Manage -  display current time of every country
+	- course short form name input added in course tab
+
+
+
+
+
+- not advanced
+- search
+- backend
+
+=> all website url tab in admin 
+=> country based time : 
+=> state, city, india  show in course scheduled
+=> url like invensi
+=> short form of course add an input admin panel course tab
+
+=> when user visit with site.com/us - session set country iso2 - geoLocation
+=> default country is usa & we can make default our india
+=> URL
+	I. if session has iso2 show as site.com/us & contens with iso2
+	II. if session does not exists & then default is india & show without content of in
+=> disclaimer etc. backend
+
+
+24/01/2022
+Hi Laxman,
+
+Please provide updates on the points below also.
+
+1. Chat bot to be activated with multiple mobile numbers. 
+2. How to add keywords. | DONE
+3. International payment gateway integration.(If you require anything from our end then please let us know.)
+4. Replica of website in respect to other countries.(Please make sure in the course schedule option the course amount and course time to be showns as per country currency and time).
+	=> when add schedule choose country now he will result in frontend automatic currency time & currency symbom etc
+	=> https://scholaracad.com/cobit-certification-course - here found all country scheduled
+	   And https://scholaracad.com/us/cobit-certification-course - here found only iso2 country (united states of america) scheduled  
+
+Note - Cart Page required little Logical changes - I will do after done dynamic course page portion
+
+
+
+
+
+
+
+
+before 24/01/2022
+1. Issue with course drop down menu list (see attached screenshot as CourseNavigation_Image)-- issue resolved. | DONE
+2. Content on break on page : under Certified Scrum Product Owner --> content of course is break in between without a proper alignment .attached image Cspo_Image. | may be fixed
+3. Adding FAQs option from backend is available but the same is not visible on front end course page---- issue resolved.  | DONE
+
+4. Backend Panel : Premium Course : Add more bullet options in editor.  | NOT FOUND
+
+5. Backend Panel : Remove ID from every option and show course name for that.(Refer ScreenShot1, 2, 3) | DONE
+
+6. Additional offers to be added on the backend panel and the same to be reflected on the course schedule option and amount to calculate accordingly. Amount and % both can be added as discount from backend. | DONE
+
+7. After Clicking on Enroll Now: user needs to fill the form including the user Id and Password fields. | DONE & see my points
+
+8. Training Schedule: Show only upcoming training schedules and those which is starts from today. No past schedule to be visible. | DONE
+
+9. Payment Status should be visible on backend. | accurate can be after payment interigation 
+10. Backend Panel: Before deleting any record from backend its should ask first for the confirmation. | DONE
+
+11. Backend Panel : There is delete button in multiple option on backend, make sure no record will be deleted from the DB on click of delete button just hide that record from the backend option. | I will add this feature at the end of complete of this project | because testing data not required in database
+
+12. User Login : As discussed with Developer User can be logged-in by 3 ways for now, if any other option is required that will be taken care later. | All done & check my points
+
+a. Click on Login : create account option should be there. | DONE
+b. If user tries to add course into the cart then please ask him to login first. | Not required ,, because I am using session  & more information - check my points
+c. When user click on Enroll now from any training schedule that time add its user-id and password through enroll form.  |DONE
+
+
+
+
+
+=> MY POINTS
+
+1. user can login, logout, forget password, register
+2. cart system
+3. user can add course in cart without login 
+4. cart page - form - account create if email not exits &  if email exists then ask for password if user without login
+5. cart page - form - if user logged ,, auto fillup some details based upon user profile data in cart pay now form
+6. user cant login without verify his/her email but in cat page - form user will login only for one times if new email 
+7. enquiry form done with country, state, city and course select option auto and enqury form will go to email 
+8. faqs done
+
+=> More Features will be coming soon!
+1. user profile / address name update
+2. user enrolled tab
+
+
+
+
+
+
+
+
+=> COURSE ADD - bullet 
+=> faqs -> id - name | DONE
+=> document amt. - 10 % | DONE
+=> while add entroll - user and passowrd will crated
+=> Add Cart
+=> Add Cart - login three enroll now, cart course add  before, third normal login from site
+=> Email & sms to while pay confirm
+=> break editor text
+=> delete - hide from panel and not delete database every where
+=> table relationship | DONE
+
+=> Course scheduled 
+	1. class time
+	2. course start date from __ to ___
+	3. course Fees - make input in premium course tab
+	4. class video lecture language 
+	5. class Scheduled Id 
+	6. Registration End Time - will 1 days 55 hours - will be hide box if time over - and disabled enroll now button
+	7. Discount Amt. -  for early bird off applied within date & Time	
+	8. Discount End Time and Date

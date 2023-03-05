@@ -1,0 +1,19 @@
+WEBSITE FEATURES
+	1. category page
+	2. escort 
+	3. state & city page
+	4. Blogs
+
+https://a2zcty.com/
+
+Its a content management website
+
+- Create Pages Dynamic of category
+- Add Images
+- Seo Section
+- Add Categories
+- Add Faq in home page in bottom
+
+Refrence Website - https://apsaraofindia.com/
+
+

@@ -1,0 +1,33 @@
+https://scholaracad.com/cobit-certification-course
+/* schedule state, city, country */
+
+
+https://scholaracad.com/(country)/cobit-certification-course-(state/city)
+
+/* scheduled
+course name in Country
+state, city sechdule
+or country 
+
+course name in State,Country
+City, State, or
+common state schechdule
+
+course name in City,State,Country
+*/
+
+
+https://scholaracad.com/(country)/(course_name)
+	keyword - (course_name) in (country), Best location for (course_name) in (country)
+	description - (course_name) in (country). Best location for (course_name) in (country)
+	title - (course_name) in (country)
+
+https://scholaracad.com/(course_name)
+	keyword - (course_name),  Best location for (course_name)
+	description - (course_name). Best location for (course_name)
+	title - Best (course_name) in worldwide
+
+https://scholaracad.com/(country)/(course_name)-(state/city)
+	keyword - (course_name),  Best location for (course_name)
+	description - (course_name). Best location for (course_name)
+	title - Best (course_name) in worldwide

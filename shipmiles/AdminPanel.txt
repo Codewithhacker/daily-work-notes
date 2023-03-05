@@ -1,0 +1,18 @@
+===ADMIN PANEL===
+1. Airway Bill Fields (Create, Read, Update, Delete)
+	=> AirWayBill Data Input : check image airway_bil_fields_1.png and airway_bil_fields_2.png
+	=> Country State City Data
+	=> Network Table - Like DHL, Fedex
+2. Fuel Surcharges of every networks((Create, Read, Update, Delete))
+3. Rate Calculator((Create, Read, Update, Delete))
+	i. csc table
+	i. Network Table (company management) name, code, fuel charge, logo, discount 
+	ii. Package Type Table - name, value
+	iii. Ratelist Table  - 
+
+=== WEBSITE ===
+1. contact form  & Request A Quote (Home Page)- error when submit 
+	- send to mail
+2. 
+
+	

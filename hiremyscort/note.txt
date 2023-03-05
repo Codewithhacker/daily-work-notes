@@ -1,0 +1,19 @@
+ref. https://hi.oklute.com/call-girls/
+
+Webiste Feature 
+1. Dynamic Page will be by state & category
+2. search keyword will match with ads title 
+3. every ads have page dyamic
+4. ADS 
+	=> Ad ID: in0ab971y will be when user create ads
+	=> TTYPE - vip ads and vip exclusive
+	=> vip ads on the top of news fees or else where like search keywords
+	=> Add Premium option in box
+	=> ads time 7, 3, 2, 1, 5 , 15 
+
+Admin Features 
+1. Ads Category tab
+2. All City Name tab
+3. All States tab
+4. Customer Ads
+5. portfolio tab

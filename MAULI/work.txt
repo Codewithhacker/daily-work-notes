@@ -1,0 +1,19 @@
+=> Advance Work	
+	1. Mauli Account (1/2 day)
+		-  table create in database &  display data, add data, delete data
+		- data export to excel
+	2. Inventory (1 day)
+		i. receive work table	
+			- dropdown added for change status instantly 
+		ii. auto name suggestion when add new record in five table
+		iii. alphabetically order in - three table
+	3. Invoice
+		i. Invoice Payment
+			- create, display, delete in admin panel
+			- table created in database for invoice payment
+			- data export to excel
+			- 2-3 days with fix some bugs which is related to invoice & invoice_payment table
+		ii. seprate invoice MI & invoice PI (1 hours)
+	4. invoice, measurement, qoutation :  added an title input (1/2 hours)
+	5. measurement : change status of measurment without edit button (now can be change status from direct table)( 1.5 hours)
+			

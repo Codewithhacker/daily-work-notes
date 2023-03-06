@@ -1,5 +1,4 @@
 => top to button not work in mobiel view- fixed
-
 => CHARGS PAGE CONTENT - DONE
 	I. FAQS
 	II. POINTS & IMAGE (check jpg - and image in charge page bottom of query form.jpg)

@@ -1,3 +1,19 @@
+06/03/2023
+I. SHIPMILES 10 TO 14:20
+	- created consignee and shipper form in book.php page & design 
+	- consignee and shipper form added to database 
+	- display consignee and shipper form in admin panel & admin can delete booking form
+II. RAMCHANDRA 14:20 TO 14:33
+	- download admission form date column added in admin panel 
+
+III. SHIPMILES 3:00 to 4:00
+	- move project to shipmiles.com webiste file
+	- changed all url in admin panel -  old method not support in live
+
+IV. RAPIDEX 16:00 TO 16:53
+	I. CHANGE IMAGE IN CALL/WHATSAPP BOX 
+	II. FIXED SOME COMPONENT MISSING IN DELHI OR COUNTRY PAGE
+
 04/03/2022
 I. hiremyescort(by laxman sir) 10:00 to 10:30
 	i. redirect to 404 page not found if pagination ?page=1

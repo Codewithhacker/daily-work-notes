@@ -1,3 +1,16 @@
+=> multiple payment option
+=> terms/policy from backend
+=> course schedule - course amount input
+=> show country name in top session
+=> phone number in of every country in admin panel
+=> Home Page - section demand slider of top course slider
+=> Search Here input showing course
+=> testimonial from backend. - HOLD
+=> all course page - show course after click parent course 
+= search input home page - redirect to all course page 
+=> FAQS FOUR TYPES - & ONE TYPE ALREADY ADDED
+=> SITEMAP
+
 => USER PANEL	
 	- change password
 	- update profile

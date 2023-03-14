@@ -1,6 +1,22 @@
 -> https://rapidexworldwide.in/international-courier-service-(country/state/city)  - DONE
--> https://rapidexworldwide.in/international-courier-service-(country/state/city)/(country/state) - DONE
+-> https://rapidexworldwide.in/international-courier-service-(country/state/city)/(country/state/city) - DONE
 
+=> Destination - Admin Panel
+	- display data as specific csc type
+		3.1 => From Location Country 
+			3.1.1 country (destination_to.php) - DONE
+			3.1.2 state (destination_to_state.php) 
+			3.1.3 city (destination_to_country.php)
+		
+		3.2 => From Location State 
+			3.2.1 country (destination_to.php) - DONE
+			3.2.2 state (destination_to_state.php) 
+			3.2.3 city (destination_to_country.php)
+		
+		3.3 => From Location City - DONE
+			3.3.1 country (destination_to.php) - DONE
+			3.3.2 state (destination_to_state.php) 
+			3.3.3 city (destination_to_country.php)
 
 => Admin Panel
 	1. Manage CSC 

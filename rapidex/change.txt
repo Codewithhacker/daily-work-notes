@@ -1,3 +1,7 @@
+=> client review sorting option - DONE
+=> client review slider - combine all review single component
+=> report 
+=> destination show single 
 => top to button not work in mobiel view- fixed
 => CHARGS PAGE CONTENT - DONE
 	I. FAQS
@@ -70,7 +74,6 @@ first entry  12:00pm
 	2. NETWORK WITH STATUS WITH DELIVERY
 Problem
 	1. SHIPMENT STATUS - $statusValue1 = $requestDataLog[$i]['description']; leave
-
 
 
 => Updateshipment information when click add new ,, status should update as per awb add new  tab

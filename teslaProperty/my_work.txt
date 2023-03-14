@@ -1,0 +1,32 @@
+1. Single Property Page
+	=> TABLE
+		i. property title
+		ii. property address
+		iii. price 
+		iv. available or not available
+		v. Tags
+		vi. property specification(More Information) - DONE
+		v. description
+		vi. Property Summary
+		vii. Property Features	
+		viii. Floor Plans with strcuture image
+		ix. Property Video
+		x. Nearby Places (Add Button) 
+			- Area (+ Add Button)(+ Remove Button)
+				heading - name - distance - type (remove button)
+				heading - name - distance - type (remove button)
+			- Area (+ Add Button)(+ Remove Button)
+				heading - name - distance - type (remove button)
+				heading - name - distance - type (remove button)
+			1. when click nearby place add button should be Area button show 
+			2. when click area add button should be add input heading - name - distance - type with remove button
+			3. using jquery and bootstrap 4.1 dnyamically input
+			4. and input name should be nearbyplace[0][area][0][heading] & nearbyplace[0][area][0][name] & nearbyplace[0][area][0][distance] & nearbyplace[0][area][0][type] 
+
+,,
+				 
+	
+		xi. Property Views(should be removed)
+		xi. Review Section
+ 
+

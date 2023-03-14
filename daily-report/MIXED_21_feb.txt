@@ -1,3 +1,76 @@
+11/03/2023
+	I. RAPIDEX 10 to 11:43
+		=> Fixed Issue
+			if specific country did not added in from location redirect to home page 
+			 	- https://rapidexworldwide.in/international-courier-service-bawana/usa.php
+		=> talk at anydesk with rapidex sir & for work details see on whatsapp 
+	II. SHIPMILES 11:44 TO 12:35
+		=> moved rate calculator & admin to testing folder https://www.shipmiles.com/test/
+		=> setup  rate calculator & admin as test folder 
+	III. Rapidex 12:35 TO 1:40
+		=> if page not found in rapidex redirect 404.php page
+		=> Three times - home page title changed 
+		=> home meta description one line changed
+		- via whatsapp
+	IV. Scholaracad 2:00 to 4:00
+		 => note down advance work & analysis website  with harsh kohli
+	V. RAPIDEX 4:00 to 6:20
+		=> Destination - Admin Panel
+		- display data as specific csc type in admin panel
+		1.1 => From Location Country 
+			3.1.1 country (destination_to.php) - DONE
+			3.1.2 state (destination_to_state.php) 
+			3.1.3 city (destination_to_country.php)
+		
+		1.2 => From Location State 
+			3.2.1 country (destination_to.php) - DONE
+			3.2.2 state (destination_to_state.php) 
+			3.2.3 city (destination_to_country.php)
+		
+		1.3 => From Location City 
+			3.3.1 country (destination_to.php)  
+			3.3.2 state (destination_to_state.php)  - DONE
+			3.3.3 city (destination_to_country.php)	
+
+	V. TALKED to client on CALL FOR SOME CHNAGES IN hiremy... & a2zcty	(via laxman sir)
+		
+
+10/03/2023
+	I. TESLAPROPERTY 10 to 12:30
+		=> DELETE, ADD APARTMENT DONE IN ADMIN PANEL
+
+	II. RAPIDEX 12:30 to 14:10 & 3:00 to to 3:45
+		=> broken design fixed via whatsapp
+		=> 5-6 pages page title & word changes via whatsapp
+		=> fixed delhi & country page some word not change as per page name via whatsapp
+		=> understanding of admin panel for country & delhi page via anydesk
+		=> work via whatsapp 
+	
+		-  Some Work of TESLAPROPERTY for edit apartment
+
+	III. TESLAPROPERTY 3:45 to 16:23
+		=> EDIT APARTMENT DONE
+	IV. RAPIDEX 16:23 to 18:20
+		I. REMOVE & ADD COUNTRY ONE BY ONE AS PER GIVEN RAPIDEX SIR  VIA WHATSAPP
+		II. MODIFY SOME WORDS CONTENTS VIA WHATSAPP
+		III. SORTING ORDER ADDED IN CLIENT REVIEW
+
+
+09/03/2023
+I. REOSRT 10 to 11:00
+	=> fixed footer layout in mobile view
+	=> & improve some design
+II. RAPIDEX 11 to 12:00
+	=> country filter as per rapidex country serivce in database 
+
+III. TESLAPROPERTY(by laxman) 12:00 to 13:32pm && 2:00 to 6:30
+	=> discuss about website & features of website on whatsap
+	=> creating admin panel, login, logout, dashboard, profile, change password
+	=> state & city table (CRUD Operation)
+	=> apartment 22 column table created in database
+	=> dynamic apartment specification input created in while add new apartment 
+
+
 06/03/2023
 I. SHIPMILES 10 TO 14:20
 	- created consignee and shipper form in book.php page & design 
@@ -14,6 +87,9 @@ IV. RAPIDEX 16:00 TO 16:53
 	I. CHANGE IMAGE IN CALL/WHATSAPP BOX 
 	II. FIXED SOME COMPONENT MISSING IN DELHI OR COUNTRY PAGE
 
+V. RESORT 5:00 to 18:16
+	I. CHECKOUT PUSH NOTIFATION DASHBOARD
+	II. ADDED 28 ICONS FACILITY IN RESORT 
 04/03/2022
 I. hiremyescort(by laxman sir) 10:00 to 10:30
 	i. redirect to 404 page not found if pagination ?page=1

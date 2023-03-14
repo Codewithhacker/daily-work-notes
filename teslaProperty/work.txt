@@ -1,0 +1,55 @@
+THEME - https://unicoderbd.com/theme/html/uniland/fullwidth/property-single-v1.html
+
+Website Design & Development of
+www.teslaproperties.ae
+As per our previous discussion of Website & CRM for teslaproperties.ae, we are ready to develop your project accordingly..
+
+Which includes: -
+•	Static + Dynamic website – (Technology – HTML, PHP)
+•	Responsive design
+•	Attractive look
+•	SEO Friendly Website
+•	Call back button
+•	Review section
+•	Sign in/Signup
+•	Search bar
+•	Front end development 
+•	Back end development
+•	Database development and integration
+•	Framework
+•	Chat Option (if requirement)
+•	Dynamic Query in Panel
+•	Share property through WhatsApp/Fb or Download in PDF
+
+Admin Panel
+•	Property list details
+•	SELL/RENT/LEASE Option
+•	Post AD
+•	Add/Remove/Delete properties
+o	Property Details
+o	Amenities
+o	Gallery
+o	Faqs
+o	Query form integrated with panel
+o	Agent information
+o	Map Option
+o	YouTube Video Option
+o	Related properties
+
+•	Customer details
+•	Payment section
+•	Upload documents/Images
+•	Mail notifications
+•	Filters
+
+Agent Panel
+•	Signup/Sign in
+•	Add Properties
+•	Mail notification
+•	Agent Profile
+
+SEO INTEGRATION
+o	Add Keywords in Backend
+o	Add Title/Meta Tags Page Wise
+o	Google Analytic Code Option
+o	Header Footer Customization

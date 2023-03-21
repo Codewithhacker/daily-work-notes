@@ -1,3 +1,10 @@
+1. change network name as per admin panel only at charge page
+2. google review slider at everywhere & more review click redirect to add review  page except home page
+3. first docs & second non docs for 500gm charges
+4. whatsapp verify when check shipping charges
+5. captcha new version should be add in rate calculator(booking form)
+6. arrow to charge calculator
+
 => client review sorting option - DONE
 => client review slider - combine all review single component
 => report 

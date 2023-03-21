@@ -1,0 +1,109 @@
+
+
+21/03/2023
+1.	http://anjaliprabhakar.com/ 10 to 4:54pm
+    a.	7 pages - table data connected from admin panel (included two is page dynamic)
+    b.	Home Page – Photography & drawing slider connected from admin panel	 
+    
+2. 4:54 to 6:30
+    a. setup admin panel to live hosting server & Fixed some errors - https://teslaproperties.ae/test/
+    b. given  images to laxman sir for - anjalibhrabhkar.com
+    c. Created An Account for Google Captcha  - hiremyescort.com  
+    
+    
+19/03/2023
+2.	Anjaliprabhakar 10:00 TO 11:45
+a.	ADMIN PANEL DONE
+i.	Painting
+ii.	Edit 
+iii.	Writing - CRUD Operation (create, display, update,   delete in admin panel)
+
+3.	RAPDIEX 11:45 to 6:30 (with rapidex sir)
+a.	 design, replace word, some lines content change 
+b.	BCHANGE FAQS IN MEDICNE SITE 
+c.	REPLACE IMAGES IN THREE PAGE 
+18/03/2022
+1.	http://existay.com/new-ars/ 10:11 to 10:30
+a.	 Replace image to form in Home Header
+2.	Hiremy… 10:30 to 12:20
+a.	Improve LCP 3.8 to 2.6s
+b.	Improve FCP 1.7 to 1.4
+c.	Improve Speed Index 5.4 to 5.1
+d.	Performance 82 to 89
+3.	Setup Project	12:20 to 1:22
+a.	Trying to Setup Tesla Admin Panel in Hosting File & Unfortunately not success , because its required php version 8.1 with composer – which is not supporting in this system, I will setup at home 
+b.	File Editor added in shipmiles & tesla for work at live
+c.	Discuss about said project to laxman  sir
+4.	Vijender
+ 
+17/03/2022
+5.	A2Zcty & Hire 10:00 to 10:37
+a.	A2zcity category by state & city display in series in navigation menu – DONE
+b.	Hiremy.. website added whatsapp button text for when user click on whatsapp custom message will appear at user chat input
+6.	New - https://existay.com/new-ars/ 10:37 to 12:00
+a.	Recover all hosting access (id & password) from github
+b.	WP & CALL btn added
+c.	Page layout margin & banner size fixed to visible page at site
+7.	Rapidex  12:00 to 6:30 (with rapidex sir)
+a.	Rectify the charges in network@charges page
+b.	Created new dynamic page & tagging updated dynamically (https://rapidexworldwide.in/medicine-courier/delhi-to-usa-charges.php)
+i.	Charges added
+ii.	Content added given by rapidex sir
+iii.	Tagging
+iv.	Links
+c.	Work on country page like remove dashed from keywords of bottom page 
+
+ 
+16/03/2022
+8.	RAMCHANDRA 10 TO 10:20
+a.	Hide all syllabus from syllabus page because new syllabus will coming soon
+b.	While Admission Form Download
+i.	Mobile Number must be 10 Digit & no one can add number like 222 & 8888 series
+9.	Created Report 10:20 to 10:40
+10.	Hire.. (by laxman sir) 10:40 to 12:20
+a.	Remove the link from a newly added post by user that has been pasted from a Microsoft Word file.
+b.	Talked to client
+c.	A2zcity category by state & city display in series in navigation menu , on working…
+11.	RAPIDEX 12:20 to 6:30 (with rapidex sir)
+a.	network@charges page design & content modification & some logical operaton
+b.	new dynamic medicine page  created (like network@charges page) 
+c.	add all contents to medicine page (given by rapidex sir)  
+d.	added charges table in medicine page & some logical operation of charges table - on working….
+ 
+e.	15/03/2022
+12.	Created reports 10:10 TO 10:30 
+13.	RAPIDEX 10:30 to 6:30 (work with rapidex sir)
+a.	Minimum three network show in mobile view – DESIGN
+b.	Work on Network @ Charge Page (Dynamic)
+i.	Network, from location, to destination if not found in database redirect to 404.php page
+ii.	Removed GST charge from charge table
+iii.	Modify charge amount as pincode logic of rapidex 
+iv.	Created term & condition of charge table & showing at popup with design
+v.	Popular country link added at bottom
+vi.	Dynamic tagging added at bottom as per (CSC condition)
+vii.	First letter capital of Network & From Location & to Destination name at everywhere
+viii.	And some Paragraph place changed
+c.	To Destination
+i.	Added charge table of network page  
+14/03/2023
+
+2.	RAPIDEX 10 TO 10:00 to 10:30
+a.	Testing the website & admin panel
+3.	A2ZCTY & HIRE…  10:30 to 12:00
+a.	Add an content in hire… & design
+b.	Top navigation display as sorting order
+c.	Added an dump data in a2zcty
+4.	RAMCHANDRA 12:10 TO 12:30
+a.	WEBSITE PDF PASSWORD CHANGED
+b.	ABOUT IMAGE REPLACED IN ABOUT.PHP PAGE
+
+5.	 RAPIDEX 12:30 TO 6:30 
+a.	https://rapidexworldwide.in/ups-courier/delhi-to-afghanistan-charges.php
+i.	Design of network box nearly charge table
+j.	GST & FUEL surcharges charges added in table charges
+b.	From Location & to destination 
+i.	If  country page then meta description “Country” 		
+j.	If state page then meta description “Country-State”
+k.	If city page then meta description “State-City”
+l.	& to destination page  - whereas flag with above I, j, k  applicable 
+m.	Title, meta description, keywords changed & heading line of page as per page title

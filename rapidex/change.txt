@@ -5,6 +5,7 @@
 5. captcha new version should be add in rate calculator(booking form)
 6. arrow to charge calculator
 7. checkout all website link should be BASE_URL
+8. shipping-charges.php - testimonial 
 
 => client review sorting option - DONE
 => client review slider - combine all review single component

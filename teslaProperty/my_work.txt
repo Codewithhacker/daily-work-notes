@@ -1,3 +1,17 @@
+Website Description
+	1. Property List - form by public user
+	2. Buy/Rent Property
+	3. Developer Property
+	
+Admin Panel
+	1. State/City
+	2. Developer Property & Developer Profile
+	3. My Property 
+		
+
+
+
+
 1. Single Property Page
 	=> TABLE
 		i. property title

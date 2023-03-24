@@ -1,3 +1,21 @@
+24/02/2023
+    1. tesla 10:15 to 4:10
+        => Admin Panel  
+            i. change name apartment to property everywhere like table, menu name, input name, url etc
+            ii. modify propery table as per laxman sir information
+        => Website 
+            i. property dynamic page (https://teslaproperties.ae/test/apolo-family-house-residense)
+                - contact form sent to mail 
+                - search Property Filter - removed extra input
+                - dynamic page done except property search filter function
+                - slider added & designed
+            ii. rent-property & by-property  (https://teslaproperties.ae/test/buy-property, rent-property)
+                - page created & display all property table data
+                - recent portion - display property data data 
+                - featured portion - display property data data 
+    2. Rapidex
+           
+
 23/02/2023
 1. hiremyescort 10:00 to 10:30 
     a. login page & post ads page : added google captcha-version-3

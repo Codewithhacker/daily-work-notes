@@ -1,7 +1,10 @@
 Website Description
-	1. Property List - form by public user
+	1. List Your Property - form by public user
 	2. Buy/Rent Property
-	3. Developer Property
+	3. Developer Property\
+	4. team page
+	5. area guide - will see later
+	6. home page popup as per laxman sir skype
 	
 Admin Panel
 	1. State/City
